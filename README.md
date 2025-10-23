@@ -1,4 +1,4 @@
-# 🌸 Birthday Book for Keerthi
+# 🌸 Birthday Book 
 
 A beautiful interactive birthday website styled like a soft floral book with page flip animations.
 
